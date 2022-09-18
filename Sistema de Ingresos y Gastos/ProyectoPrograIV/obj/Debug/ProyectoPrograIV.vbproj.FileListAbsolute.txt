@@ -1,0 +1,72 @@
+C:\Users\Laboratorio\Desktop\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.vbprojResolveAssemblyReference.cache
+C:\Users\Laboratorio\Desktop\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Resources.resources
+C:\Users\Laboratorio\Desktop\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.vbproj.GenerateResource.Cache
+C:\Users\Laboratorio\Desktop\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.MDIParent1.resources
+C:\Users\Laboratorio\Desktop\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Menu.resources
+C:\Users\Laboratorio\Desktop\ProyectoPrograIV\ProyectoPrograIV\bin\Debug\Menu.exe.config
+C:\Users\Laboratorio\Desktop\ProyectoPrograIV\ProyectoPrograIV\bin\Debug\Menu.exe
+C:\Users\Laboratorio\Desktop\ProyectoPrograIV\ProyectoPrograIV\bin\Debug\Menu.pdb
+C:\Users\Laboratorio\Desktop\ProyectoPrograIV\ProyectoPrograIV\bin\Debug\Menu.xml
+C:\Users\Laboratorio\Desktop\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\Menu.exe
+C:\Users\Laboratorio\Desktop\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\Menu.xml
+C:\Users\Laboratorio\Desktop\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\Menu.pdb
+C:\Users\Laboratorio\Desktop\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Ingreso.resources
+C:\Users\Laboratorio\Desktop\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Gastos.resources
+H:\ProyectoPrograIV\ProyectoPrograIV\bin\Debug\Menu.exe.config
+H:\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\Menu.exe
+H:\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\Menu.xml
+H:\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\Menu.pdb
+F:\ProyectoPrograIV\ProyectoPrograIV\bin\Debug\Menu.exe.config
+F:\ProyectoPrograIV\ProyectoPrograIV\bin\Debug\Menu.exe
+F:\ProyectoPrograIV\ProyectoPrograIV\bin\Debug\Menu.pdb
+F:\ProyectoPrograIV\ProyectoPrograIV\bin\Debug\Menu.xml
+F:\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.vbprojResolveAssemblyReference.cache
+F:\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Gastos.resources
+F:\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Ingreso.resources
+F:\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Menu.resources
+F:\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Resources.resources
+F:\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.vbproj.GenerateResource.cache
+F:\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.vbproj.CoreCompileInputs.cache
+F:\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\Menu.exe
+F:\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\Menu.xml
+F:\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\Menu.pdb
+F:\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.SemanaGasto.resources
+F:\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Estado_Actual.resources
+F:\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Editor_de_cuentas.resources
+F:\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.CrearUsuario.resources
+F:\Proyecto Progra 4 Entrega\ProyectoPrograIV\ProyectoPrograIV\bin\Debug\Menu.exe.config
+F:\Proyecto Progra 4 Entrega\ProyectoPrograIV\ProyectoPrograIV\bin\Debug\Menu.exe
+F:\Proyecto Progra 4 Entrega\ProyectoPrograIV\ProyectoPrograIV\bin\Debug\Menu.pdb
+F:\Proyecto Progra 4 Entrega\ProyectoPrograIV\ProyectoPrograIV\bin\Debug\Menu.xml
+F:\Proyecto Progra 4 Entrega\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.vbprojResolveAssemblyReference.cache
+F:\Proyecto Progra 4 Entrega\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.CrearUsuario.resources
+F:\Proyecto Progra 4 Entrega\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Editor_de_cuentas.resources
+F:\Proyecto Progra 4 Entrega\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Estado_Actual.resources
+F:\Proyecto Progra 4 Entrega\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Gastos.resources
+F:\Proyecto Progra 4 Entrega\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Ingreso.resources
+F:\Proyecto Progra 4 Entrega\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Menu.resources
+F:\Proyecto Progra 4 Entrega\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Resources.resources
+F:\Proyecto Progra 4 Entrega\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.SemanaGasto.resources
+F:\Proyecto Progra 4 Entrega\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.vbproj.GenerateResource.cache
+F:\Proyecto Progra 4 Entrega\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.vbproj.CoreCompileInputs.cache
+F:\Proyecto Progra 4 Entrega\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\Menu.exe
+F:\Proyecto Progra 4 Entrega\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\Menu.xml
+F:\Proyecto Progra 4 Entrega\ProyectoPrograIV\ProyectoPrograIV\obj\Debug\Menu.pdb
+F:\Archivos PC\Proyectos y Portafolio\Portafolio\Sistema de registro de Gastos\ProyectoPrograIV\bin\Debug\Menu.exe.config
+F:\Archivos PC\Proyectos y Portafolio\Portafolio\Sistema de registro de Gastos\ProyectoPrograIV\bin\Debug\Menu.exe
+F:\Archivos PC\Proyectos y Portafolio\Portafolio\Sistema de registro de Gastos\ProyectoPrograIV\bin\Debug\Menu.pdb
+F:\Archivos PC\Proyectos y Portafolio\Portafolio\Sistema de registro de Gastos\ProyectoPrograIV\bin\Debug\Menu.xml
+F:\Archivos PC\Proyectos y Portafolio\Portafolio\Sistema de registro de Gastos\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.vbprojAssemblyReference.cache
+F:\Archivos PC\Proyectos y Portafolio\Portafolio\Sistema de registro de Gastos\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.CrearUsuario.resources
+F:\Archivos PC\Proyectos y Portafolio\Portafolio\Sistema de registro de Gastos\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Editor_de_cuentas.resources
+F:\Archivos PC\Proyectos y Portafolio\Portafolio\Sistema de registro de Gastos\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Estado_Actual.resources
+F:\Archivos PC\Proyectos y Portafolio\Portafolio\Sistema de registro de Gastos\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Gastos.resources
+F:\Archivos PC\Proyectos y Portafolio\Portafolio\Sistema de registro de Gastos\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Ingreso.resources
+F:\Archivos PC\Proyectos y Portafolio\Portafolio\Sistema de registro de Gastos\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Menu.resources
+F:\Archivos PC\Proyectos y Portafolio\Portafolio\Sistema de registro de Gastos\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.Resources.resources
+F:\Archivos PC\Proyectos y Portafolio\Portafolio\Sistema de registro de Gastos\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.SemanaGasto.resources
+F:\Archivos PC\Proyectos y Portafolio\Portafolio\Sistema de registro de Gastos\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.vbproj.GenerateResource.cache
+F:\Archivos PC\Proyectos y Portafolio\Portafolio\Sistema de registro de Gastos\ProyectoPrograIV\obj\Debug\ProyectoPrograIV.vbproj.CoreCompileInputs.cache
+F:\Archivos PC\Proyectos y Portafolio\Portafolio\Sistema de registro de Gastos\ProyectoPrograIV\obj\Debug\Menu.exe
+F:\Archivos PC\Proyectos y Portafolio\Portafolio\Sistema de registro de Gastos\ProyectoPrograIV\obj\Debug\Menu.xml
+F:\Archivos PC\Proyectos y Portafolio\Portafolio\Sistema de registro de Gastos\ProyectoPrograIV\obj\Debug\Menu.pdb
