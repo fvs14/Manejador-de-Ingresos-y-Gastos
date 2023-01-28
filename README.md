@@ -1,5 +1,5 @@
 # Manejador-de-Ingresos Gastos y Deudas-
-Sistema para manejar los ingresos ingresos y deudas de un usario, usando .NET (windows forms) y SQL Server 
+Sistema para manejar sus ingresos y deudas, usando .NET (windows forms) y SQL Server 
 
 Para desplegar este proyecto se debe generar un esquema de la base con el script incluido en el proyecto llamado "script BaseCuentas.sql" y correr la aplicación
 
