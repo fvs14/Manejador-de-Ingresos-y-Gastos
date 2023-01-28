@@ -4,6 +4,7 @@ Sistema para manejar los ingresos ingresos y deudas de un usario, usando .NET (w
 Para desplegar este proyecto se debe generar un esquema de la base con el script incluido en el proyecto llamado "script BaseCuentas.sql" y correr la aplicación
 
 -Una vez ejecutado el proyecto debe crear su usuario
+
 -Ingresar el usuario en el campo de texto y pulsar ingresar
 
 Al ingresar:
